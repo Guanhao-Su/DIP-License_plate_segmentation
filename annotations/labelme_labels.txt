@@ -1,0 +1,8 @@
+plate
+char_1
+char_2
+char_3
+char_4
+char_5
+char_6
+char_7
